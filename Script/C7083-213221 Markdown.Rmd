@@ -8,7 +8,6 @@ output:
     toc: yes
 ---
 
-GitHub repository: https://github.com/Jabendah/C7083
 
 ```{r libraries, echo=FALSE, results='hide', message=FALSE, warning=FALSE}
 ## Setup
@@ -27,7 +26,7 @@ library(knitr)
 library(RColorBrewer)
 webshot::install_phantomjs(force = TRUE)
 ```
-
+Github Repository: https://github.com/Jabendah/C7083
 \newpage
 
 # DROUGHT CONDITIONS IN THE US
